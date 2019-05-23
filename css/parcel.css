@@ -1,0 +1,44 @@
+.button { background-color: #4CAF50;
+ border: none;color: white;
+ padding: 10px 22px;text-align: center;
+ text-decoration: none; display: inline-block;
+ font-size: 12px;margin: 2px 1px;
+ cursor: pointer;}
+textarea {padding: 10px 22px;
+ border-top-left-radius: 5px;
+ border-top-right-radius: 5px;
+ border-bottom-left-radius:5px;
+ border-bottom-right-radius:5px;
+ font-family: Arial, Helvetica, sans-serif;}
+form{font-family: Arial, Helvetica, sans-serif;}
+input[type=text], select {width: 100%;
+ padding: 12px 20px;margin: 8px 0;
+ display: inline-block; border: 1px solid #ccc;
+ border-radius: 4px;box-sizing: border-box;}
+input[type=text1], select{ width: 20%;
+ padding: 12px 20px;margin: 8px 0;
+ display: inline-block; border: 1px solid #ccc;
+ border-radius: 4px;box-sizing: border-box;}
+input[type=password], select {width: 100%;
+ padding: 12px 20px;margin: 8px 0;
+ display: inline-block; border: 1px solid #ccc;
+ border-radius: 4px;box-sizing: border-box;}
+p{ margin-top : 50px;align: center;}
+#student th { padding-top: 12px;
+ padding-bottom: 12px;
+ text-align: left;
+ background-color: #4CAF50;
+ color: white;}
+#student { font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+ border-collapse: collapse;
+ width: 100%;}
+#student td, #student th { border: 1px solid #ddd;
+ padding: 8px;}
+#student tr:nth-child(even){background-color: #f2f2f2;}
+#student tr:hover {background-color: #ddd;}
+.buttondel {background-color: #FF0000;
+ border: none;color: white;
+ padding: 10px 22px;text-align: center;
+ text-decoration: none;display: inline-block;
+ font-size: 12px;margin: 2px 1px;
+ cursor: pointer;}
